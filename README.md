@@ -1,16 +1,5 @@
-# namer_app
+visit lib/main.dart for original code, rest is build generated. 
+screenshots:![1](https://github.com/user-attachments/assets/27e41b95-71b8-4ea7-b090-9ec13720fa50)
+![2](https://github.com/user-attachments/assets/11810de2-c5c1-4808-be7b-6f0b53b26492)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
